@@ -9,6 +9,8 @@ In educational settings it can help students be honest, mindful, reflective,
 and transparent regarding their use of generative AI
 and provide educators with data they can use
 to evaluate objectively student work.
+In both settings, provenance information can guide a code review's focus
+because humans and AI [fail in different ways](https://www.spinellis.gr/blog/20260523/).
 
 Given the variety of generative AI systems and approaches in current use,
 it is typically difficult to obtain the usage metadata in a standardized form.
